@@ -1,0 +1,11 @@
+Dennis George
+
+This is my best attempt at the Recommender problem in the problem set.
+
+It is my finals week and did not have enough time to write test cases before needing to study for finals.
+
+Run by doing:
+
+./solution.py {teammate_id}
+
+This will output the top three restaurants to reccomend to that teammate, ordered descending by highest rated.
